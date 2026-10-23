@@ -1,0 +1,6 @@
+{
+  "name": "SWYNEX TaskFlow - Complete Deployed Application",
+  "description": "SWYNEX Internship Task 4: Complete full-stack deployed application featuring cloud project workflows, Kanban tracking, REST API integration, analytics, and live deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
